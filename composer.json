@@ -1,0 +1,17 @@
+{
+  "name": "sergii/to-do",
+  "description": "Individual task",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Iunash Sergii",
+      "email": "unass256@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Manager\\": "src/"
+    }
+  },
+  "require": {}
+}
